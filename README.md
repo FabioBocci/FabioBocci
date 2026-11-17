@@ -1,7 +1,7 @@
 <img width="100%" alt="Fabio Bocci - Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF2BD6,100:5CE1F2&text=Fabio%20Bocci&fontColor=0D0D0D&fontSize=70&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Python%20%C2%B7%20Odoo%20%C2%B7%20AI%20%C2%B7%20Game%20Dev&descSize=20&descAlignY=56&animation=fadeIn" />
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F5D90A&center=true&vCenter=true&width=700&height=46&lines=Backend+developer%3A+Python+%26+Odoo;Applied+AI%3A+RAG%2C+LLM+agents%2C+MCP;Founder+%40+VelvetFrames;Co-founder+%26+Lead+Dev+%40+Demon+Girl+Digital" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F5D90A&center=true&vCenter=true&width=700&height=46&lines=Founder+%40+VelvetFrames;Co-founder+%26+Lead+Dev+%40+Demon+Girl+Digital;Applied+AI%3A+RAG%2C+LLM+agents%2C+MCP;Backend+developer%3A+Python+%26+Odoo" />
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ### 👋 About me
 
-Backend software developer specialised in **Python** and **Odoo**, with hands-on experience in **applied AI** (RAG, LLM agents, MCP).
-By day I design custom Odoo integrations for large companies and lead a team of junior developers; the rest of the time I build my own things: a social platform for digital artists and multi-platform games in Unity.
+Software developer who likes building his own things: I'm the founder of **VelvetFrames**, a social platform for digital artists and their fans, and co-founder & lead developer of **Demon Girl Digital**, an indie studio making multi-platform games in Unity.
+My backbone is **Python** backend work, with hands-on experience in **applied AI** (RAG, LLM agents, MCP).
 
 ```python
 class FabioBocci(Developer):
     based_in   = "Tuscany, Italy"
-    day_job    = "Odoo Developer & Team Lead @ Avvale"
     building   = ["VelvetFrames", "Death Blonde"]
     speaks     = ["Python", "C#", "Java"]
+    day_job    = "Odoo Developer & Team Lead @ Avvale"
     studied_at = "Università di Pisa"
 
     def next_move(self):
@@ -35,21 +35,14 @@ class FabioBocci(Developer):
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>🎨 VelvetFrames</h4>
+    <td width="50%" valign="top">
+      <h3>🎨 VelvetFrames</h3>
       <sub><b>Founder</b> · 2026 → now</sub>
       <p>A social platform for digital artists and their fans. I came up with the idea and I'm building it end to end: product, business model and technology.</p>
       <img alt="Pre-launch" src="https://img.shields.io/badge/status-pre--launch-FF2BD6?style=flat-square" />
     </td>
-    <td width="33%" valign="top">
-      <h4>🏢 Avvale</h4>
-      <sub><b>IT Consultant · Odoo Developer & Team Lead</b> · 2024 → now</sub>
-      <p>Custom Odoo integrations for large enterprise clients, several projects at once across three companies, and mentoring junior developers.</p>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🎮 Demon Girl Digital</h4>
+    <td width="50%" valign="top">
+      <h3>🎮 Demon Girl Digital</h3>
       <sub><b>Co-founder & Lead Developer</b> · 2022 → now</sub>
       <p>Multi-platform games in Unity/C#. On <i>Death Blonde</i>: player controls and movement, quest and loot box systems tied to platform stores, Photon matchmaking, and the console port.</p>
       <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
@@ -57,6 +50,8 @@ class FabioBocci(Developer):
     </td>
   </tr>
 </table>
+
+💼 **Day job:** IT Consultant, Odoo Developer & Team Lead @ Avvale (2024 → now): custom Odoo integrations for enterprise clients and mentoring junior developers.
 
 ### 🕹️ Before that
 
@@ -100,7 +95,13 @@ class FabioBocci(Developer):
 
 ---
 
-### 🗃️ Side quests
+### 🔒 Side quests: hidden
+
+Most of what I build lives in private repos, so my side quests stay hidden until they're ready to see the light.
+
+<details>
+<summary>📜 Old public stuff</summary>
+<br />
 
 | Project | What | Stack |
 |---|---|---|
@@ -109,5 +110,7 @@ class FabioBocci(Developer):
 | [SOL-2022-23](https://github.com/FabioBocci/SOL-2022-23) | Operating Systems & Lab project, Università di Pisa | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [ProgettoReti2020](https://github.com/FabioBocci/ProgettoReti2020) | WORTH, client-server project manager (RMI + sockets) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [ProgettoPR2-Ocaml](https://github.com/FabioBocci/ProgettoPR2-Ocaml) | Programming II project | ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white) |
+
+</details>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5CE1F2,100:FF2BD6&section=footer" />
